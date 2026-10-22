@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Live Logic MIDI Control
+GenericName=MIDI Controller Editor
+Comment=Edit and upload profiles to the Blackstar Live Logic MIDI Controller
+Exec=live-logic-control
+Icon=live-logic-control
+Terminal=false
+Categories=AudioVideo;Audio;Utility;
+Keywords=MIDI;Blackstar;Live Logic;foot controller;SysEx;
+StartupWMClass=live-logic-control

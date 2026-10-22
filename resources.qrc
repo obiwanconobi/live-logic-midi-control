@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="icons/live-logic-control.svg">assets/live-logic-control.svg</file>
+    <file alias="icons/live-logic-control.png">assets/live-logic-control.png</file>
+    <file alias="icons/chevron-down.svg">assets/chevron-down.svg</file>
+    <file alias="icons/chevron-up.svg">assets/chevron-up.svg</file>
+  </qresource>
+</RCC>
